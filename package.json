@@ -1,0 +1,20 @@
+{
+  "name": "slack-messening-blog-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aoberoi/passport-slack": "^1.0.5",
+    "@slack/client": "^3.8.1",
+    "@slack/events-api": "^1.0.0",
+    "body-parser": "^1.16.1",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1",
+    "passport": "^0.3.2"
+  }
+}
